@@ -1,0 +1,9 @@
+::-webkit-scrollbar {
+    width: 15px;
+    transition: transform 0.4s all;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--dark-theme-primary-color);
+    transition: transform 0.4s all;
+}

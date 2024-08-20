@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg width="700" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <style>
+  <![CDATA[#eWSLi8rbaTl2 {animation: eWSLi8rbaTl2_s_do 12000ms linear infinite normal forwards}@keyframes eWSLi8rbaTl2_s_do { 0% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 300}} #eWSLi8rbaTl3 {animation: eWSLi8rbaTl3_s_do 12000ms linear infinite normal forwards}@keyframes eWSLi8rbaTl3_s_do { 0% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 360}} #eWSLi8rbaTl4 {animation: eWSLi8rbaTl4_s_do 12000ms linear infinite normal forwards}@keyframes eWSLi8rbaTl4_s_do { 0% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 500}} #eWSLi8rbaTl5 {animation: eWSLi8rbaTl5_s_do 12000ms linear infinite normal forwards}@keyframes eWSLi8rbaTl5_s_do { 0% {stroke-dashoffset: 0} 100% {stroke-dashoffset: 360}}]]>
+ </style>
+ <defs>
+  <linearGradient gradientTransform="translate(0 0)" gradientUnits="objectBoundingBox" id="eWSLi8rbaTl2-stroke" spreadMethod="pad" x1="0" x2="1" y1="0.5" y2="0.5">
+   <stop id="eWSLi8rbaTl2-stroke-0" offset="0%" stop-color="#0036a4"/>
+   <stop id="eWSLi8rbaTl2-stroke-1" offset="49%" stop-color="#6a2364"/>
+   <stop id="eWSLi8rbaTl2-stroke-2" offset="100%" stop-color="#4cceff"/>
+  </linearGradient>
+  <linearGradient gradientTransform="translate(0 0)" gradientUnits="objectBoundingBox" id="eWSLi8rbaTl3-stroke" spreadMethod="pad" x1="0" x2="1" y1="0.5" y2="0.5">
+   <stop id="eWSLi8rbaTl3-stroke-0" offset="0%" stop-color="#fff"/>
+   <stop id="eWSLi8rbaTl3-stroke-1" offset="48%" stop-color="#359fad"/>
+   <stop id="eWSLi8rbaTl3-stroke-2" offset="100%" stop-color="#fff"/>
+  </linearGradient>
+  <linearGradient gradientTransform="translate(0 0)" gradientUnits="objectBoundingBox" id="eWSLi8rbaTl4-stroke" spreadMethod="pad" x1="0" x2="1" y1="0.5" y2="0.5">
+   <stop id="eWSLi8rbaTl4-stroke-0" offset="0%" stop-color="#ae3bd4"/>
+   <stop id="eWSLi8rbaTl4-stroke-1" offset="48%" stop-color="#2bc4c3"/>
+   <stop id="eWSLi8rbaTl4-stroke-2" offset="100%" stop-color="#ff00f6"/>
+  </linearGradient>
+  <radialGradient cx="0" cy="0" gradientTransform="translate(0.5 0.5)" gradientUnits="objectBoundingBox" id="eWSLi8rbaTl5-stroke" r="0.5" spreadMethod="pad">
+   <stop id="eWSLi8rbaTl5-stroke-0" offset="0%" stop-color="rgba(34,56,133,0.52)"/>
+   <stop id="eWSLi8rbaTl5-stroke-1" offset="100%" stop-color="rgba(255,176,195,0.77)"/>
+  </radialGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m60.54,192.77c-39.54,-43.64 33.08,-118.67 86.32,-137.28c25.39,-8.87 61.37,-18.89 84.46,-0.68c42.52,33.52 12.61,96.21 -20.42,126.35c-13.58,12.39 -44.52,36.56 -69.61,27.32c-33.1,-12.18 -16.82,-54.57 -5.57,-73.08c24.08,-39.6 95.4,-87.47 159.64,-71.71c82.36,20.2 -34.86,121.12 5.57,152.99c5.99,4.72 20.19,5.77 27.85,5.46c79.76,-3.17 61.15,-66.68 111.37,-71.03c39.02,-3.38 25.57,56.87 91.89,71.03c51.28,10.96 113.47,-35.49 103.02,-72.39c-11.11,-39.25 -64.63,-56.27 -100.24,-19.81c-63.22,64.73 -24.45,130.03 -131.79,180.99c-33.19,15.76 -73.72,28.1 -113.24,30.74c-67.5,4.51 -159.25,-31.31 -119.73,-89.47" fill="none" id="eWSLi8rbaTl2" opacity="0.16" stroke="url(#eWSLi8rbaTl2-stroke)" stroke-dasharray="0.01,300" stroke-linecap="round" stroke-width="40"/>
+  <path d="m548.84,44.62c26.91,-47.42 99.38,-12.55 103.05,22.47c3.25,31.1 -70.56,52.44 -66.83,90.84c0.88,9.06 10.33,16.18 16.71,23.22c22.66,25.01 36.15,53.01 25.06,83.33c-6.26,17.1 -71.23,57.87 -88.18,41.66c-16.76,-16.04 14.02,-20.91 28.77,-18.44c44.41,7.43 39.2,48.18 11.14,65.57c-18.86,11.69 -40.65,17.63 -64.97,18.44c-12.76,0.43 -28.76,0.01 -38.05,-7.51c-14.59,-11.81 -11.25,-34.5 -15.78,-49.18c-8.95,-28.97 -56.38,-49.88 -94.67,-41.66c-50.05,10.74 -52.09,78.46 -20.42,101.76c15.37,11.31 43.97,9.15 51.05,-7.51c2.03,-4.78 -3.04,-10.39 -5.57,-14.34c-15.04,-23.53 -33.73,-41.73 -71.47,-43.71c-33.13,-1.74 -71.2,3.69 -103.02,10.24c-46.01,9.48 -118.42,48.82 -164.28,18.44c-30.67,-20.31 12.75,-68.34 39.91,-79.91c32.21,-13.72 72.02,-3.5 106.73,-6.15c52.23,-3.97 154.45,-47.46 159.64,-89.47c2.79,-22.57 -26.79,-36.53 -53.83,-40.3c-66.71,-9.28 -138.89,-1.82 -204.19,-19.12c-38.48,-10.19 -22.45,-66.15 9.28,-77.18c93.9,-32.63 199.99,28.92 284.01,53.28c32.63,9.45 97.64,-12.3 85.57,-86.84" fill="none" id="eWSLi8rbaTl3" stroke="url(#eWSLi8rbaTl3-stroke)" stroke-dasharray="0.01,72" stroke-linecap="round" stroke-width="2"/>
+  <path d="m24.64,109.44c9.78,-43.17 95.29,-75.51 126.23,-37.57c28.48,34.93 -79.56,105.04 -48.26,133.19c9.97,8.97 99.16,-4.58 116.01,-5.47c93.3,-4.9 184.24,9.27 259.88,51.91c26.81,15.11 73.18,45.29 53.84,73.76c-7.51,11.06 -27.18,16.54 -41.77,20.49c-72.26,19.6 -195.89,17.37 -222.76,-49.86c-8.77,-21.96 -7.21,-41.87 11.14,-60.78c36.96,-38.08 109.24,-44.43 143.87,-82.65c45.55,-50.28 -10.11,-104.32 -87.25,-99.71c-42.69,2.54 -79.98,61.79 -30.63,76.49c68.9,20.52 142.1,-9.35 213.47,30.74c43.57,24.46 12.89,75.96 54.76,100.4c23.02,13.43 92.93,11.47 80.75,45.08c-20.77,57.31 -107.56,28.15 -159.64,20.49c-63.42,-9.34 -87.98,-26.35 -135.51,-55.33c-16.85,-10.27 -35.48,-18.6 -51.04,-30.05c-14.03,-10.32 -24.89,-23.55 -42.7,-30.73c-32.92,-13.29 -81.46,-4.1 -112.31,8.88c-107.1,45.03 -54.96,97.08 39.92,113.37c52.62,9.04 163.63,-6.14 185.91,89.47" fill="none" id="eWSLi8rbaTl4" opacity="0.2" stroke="url(#eWSLi8rbaTl4-stroke)" stroke-dasharray="0.01,500" stroke-linecap="round" stroke-width="20"/>
+  <path d="m26.29,129.84c0,-15.46 7.02,-31.88 10.21,-47.12c3.68,-17.58 -1.28,-51.87 15.78,-65.57c7.25,-5.82 10.19,-4.44 21.35,-4.78c44.09,-1.35 75.3,40.17 79.82,67.62c1.68,10.22 -7.83,56.03 0,59.42c46.39,20.08 166.2,-38.33 186.55,28c16.77,54.63 -138.8,98.87 -184.7,120.89c-12.84,6.16 -58.92,25.25 -51.04,41.66c12.51,26.1 135.02,10.7 161.49,0.69c11.66,-4.41 21.73,-12.19 30.63,-19.13c4.36,-3.39 8.75,-6.77 13,-10.24c1.03,-0.85 2.48,-3.85 2.78,-2.73c2.49,9.15 -67.93,74.69 -32.49,79.91c27.17,4 71.62,-44.94 80.75,-56.01c41.24,-49.98 50.82,-106.47 80.75,-159.14c9.54,-16.78 28.86,-53.79 57.55,-59.42c39.21,-7.69 46.88,27.19 50.12,47.81c2.46,15.69 3.5,32.74 1.85,48.49c-2.88,27.6 -40.41,109.5 -6.49,129.77c12.53,7.5 29.33,7.8 44.55,6.15c65.55,-7.09 40.14,-69.39 71.46,-99.03c10.73,-10.15 32.66,15.33 24.14,34.15" fill="none" id="eWSLi8rbaTl5" stroke="url(#eWSLi8rbaTl5-stroke)" stroke-dasharray="0.01,72" stroke-linecap="round" stroke-width="4"/>
+ </g>
+</svg>
